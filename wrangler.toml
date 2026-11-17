@@ -12,3 +12,6 @@ new_sqlite_classes = ["Store"]
 
 [triggers]
 crons = ["*/15 * * * *"]
+[[kv_namespaces]]
+binding = "CALLS"
+id = "63d9a82de1e348dd8bb58818a7c50928"
