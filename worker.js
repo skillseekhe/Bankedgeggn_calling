@@ -9,7 +9,7 @@
 
 // ====== EDIT THIS SECTION WITH YOUR REAL DETAILS ======
 const BUSINESS = `
-Name: BankEdge, a banking training center.
+Name: BankEdge, a banking and finance training center.
 Address: Spanish Court, near Krishna Chowk, Gurugram.
 Timings: Monday to Saturday, 9 AM to 7 PM
 
