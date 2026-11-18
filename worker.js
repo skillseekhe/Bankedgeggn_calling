@@ -348,3 +348,9 @@ function b64ToBytes(b64) {
   for (let i = 0; i < s.length; i++) u[i] = s.charCodeAt(i);
   return u;
 }
+export class Store {
+  constructor(state, env) {}
+  async fetch() {
+    return new Response("unused");
+  }
+}
