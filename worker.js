@@ -9,18 +9,16 @@
 
 // ====== EDIT THIS SECTION WITH YOUR REAL DETAILS ======
 const BUSINESS = `
-Name: BankEdge (BankEdge AI), a banking training center.
+Name: BankEdge, a banking training center.
 Address: Spanish Court, near Krishna Chowk, Gurugram.
-Timings: [EDIT: e.g. Monday to Saturday, 9 AM to 7 PM]
+Timings: Monday to Saturday, 9 AM to 7 PM
 
 Courses:
-- [EDIT: course name] - fee [EDIT], duration [EDIT], batch timings [EDIT]
-- [EDIT: course name] - fee [EDIT], duration [EDIT], batch timings [EDIT]
-
+- Probe - 40000, 2.5 Months
+- PCPBF - 67500, 4-6 Months
 Other info:
-- Demo class: [EDIT: free / paid, how to book]
-- Next batch start date: [EDIT]
-- Payment options: [EDIT]
+- Counselling: Free Counselling Available
+- Payment options: Online
 `;
 // ======================================================
 
